@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Corp\\Iamneo\\FirstSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18518617-F80D-4F72-86FC-84C159CA348E}|FirstAPI\\FirstAPI.csproj|d:\\corp\\iamneo\\firstsolution\\firstapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18518617-F80D-4F72-86FC-84C159CA348E}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18518617-F80D-4F72-86FC-84C159CA348E}|FirstAPI\\FirstAPI.csproj|d:\\corp\\iamneo\\firstsolution\\firstapi\\data\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18518617-F80D-4F72-86FC-84C159CA348E}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\data\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18518617-F80D-4F72-86FC-84C159CA348E}|FirstAPI\\FirstAPI.csproj|d:\\corp\\iamneo\\firstsolution\\firstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18518617-F80D-4F72-86FC-84C159CA348E}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18518617-F80D-4F72-86FC-84C159CA348E}|FirstAPI\\FirstAPI.csproj|d:\\corp\\iamneo\\firstsolution\\firstapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18518617-F80D-4F72-86FC-84C159CA348E}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18518617-F80D-4F72-86FC-84C159CA348E}|FirstAPI\\FirstAPI.csproj|d:\\corp\\iamneo\\firstsolution\\firstapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{18518617-F80D-4F72-86FC-84C159CA348E}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Corp\\Iamneo\\FirstSolution\\FirstAPI\\Migrations\\20251027043606_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FirstAPI\\Migrations\\20251027043606_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18518617-F80D-4F72-86FC-84C159CA348E}|FirstAPI\\FirstAPI.csproj|d:\\corp\\iamneo\\firstsolution\\firstapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18518617-F80D-4F72-86FC-84C159CA348E}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18518617-F80D-4F72-86FC-84C159CA348E}|FirstAPI\\FirstAPI.csproj|d:\\corp\\iamneo\\firstsolution\\firstapi\\firstapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{18518617-F80D-4F72-86FC-84C159CA348E}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\firstapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20251027043606_init.cs",
+              "DocumentMoniker": "D:\\Corp\\Iamneo\\FirstSolution\\FirstAPI\\Migrations\\20251027043606_init.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Migrations\\20251027043606_init.cs",
+              "ToolTip": "D:\\Corp\\Iamneo\\FirstSolution\\FirstAPI\\Migrations\\20251027043606_init.cs",
+              "RelativeToolTip": "FirstAPI\\Migrations\\20251027043606_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T04:36:06.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Corp\\Iamneo\\FirstSolution\\FirstAPI\\Program.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Program.cs",
+              "ToolTip": "D:\\Corp\\Iamneo\\FirstSolution\\FirstAPI\\Program.cs",
+              "RelativeToolTip": "FirstAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:42:40.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Corp\\Iamneo\\FirstSolution\\FirstAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Corp\\Iamneo\\FirstSolution\\FirstAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "FirstAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T04:39:43.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Corp\\Iamneo\\FirstSolution\\FirstAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "FirstAPI\\appsettings.json",
+              "ToolTip": "D:\\Corp\\Iamneo\\FirstSolution\\FirstAPI\\appsettings.json",
+              "RelativeToolTip": "FirstAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-27T04:03:27.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Corp\\Iamneo\\FirstSolution\\FirstAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Corp\\Iamneo\\FirstSolution\\FirstAPI\\Controllers\\ProductController.cs*",
+              "RelativeToolTip": "FirstAPI\\Controllers\\ProductController.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwB0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T04:43:44.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShopContext.cs",
+              "DocumentMoniker": "D:\\Corp\\Iamneo\\FirstSolution\\FirstAPI\\Data\\ShopContext.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Data\\ShopContext.cs",
+              "ToolTip": "D:\\Corp\\Iamneo\\FirstSolution\\FirstAPI\\Data\\ShopContext.cs",
+              "RelativeToolTip": "FirstAPI\\Data\\ShopContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwBIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:57:13.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FirstAPI",
+              "DocumentMoniker": "D:\\Corp\\Iamneo\\FirstSolution\\FirstAPI\\FirstAPI.csproj",
+              "RelativeDocumentMoniker": "FirstAPI\\FirstAPI.csproj",
+              "ToolTip": "D:\\Corp\\Iamneo\\FirstSolution\\FirstAPI\\FirstAPI.csproj",
+              "RelativeToolTip": "FirstAPI\\FirstAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-27T03:55:25.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Corp\\Iamneo\\FirstSolution\\FirstAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Models\\Product.cs",
+              "ToolTip": "D:\\Corp\\Iamneo\\FirstSolution\\FirstAPI\\Models\\Product.cs",
+              "RelativeToolTip": "FirstAPI\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:54:26.293Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
