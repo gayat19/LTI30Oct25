@@ -1,0 +1,116 @@
+//Changed in teh repo//This is done local
+
+
+using System;
+using System.Collections.Generic;
+
+public abstract class Shape3D
+{
+    public abstract double Volume();
+}
+
+public class Cuboid : Shape3D
+{
+    public double Length { get; }
+    public double Width { get; }
+    public double Height { get; }
+
+    public Cuboid(double length, double width, double height)
+    {
+        Length = length;
+        Width = width;
+        Height = height;
+    }
+
+    public override double Volume()
+    {
+        return Length * Width * Height;
+    }
+}
+
+public class Sphere : Shape3D
+{
+    public double Radius { get; }
+
+    public Sphere(double radius)
+    {
+        Radius = radius;
+    }
+
+    public override double Volume()
+    {
+        return (4.0 / 3.0) * Math.PI * Math.Pow(Radius, 3);
+    }
+}
+
+public class VolumeCalculator
+{
+    public double CalculateTotalVolume(List<Shape3D> shapes)
+    {
+        double total = 0;
+        foreach (var shape in shapes)
+        {
+            total += shape.Volume();
+        }
+        return total;
+    }
+}
+
+public class Program
+{
+    public static void Main(string[] args)
+    {
+        List<Shape3D> shapes = new List<Shape3D>();
+        VolumeCalculator calculator = new VolumeCalculator();
+
+        while (true)
+        {
+            string shapeType = Console.ReadLine();
+            if (shapeType == null) break;
+            shapeType = shapeType.Trim().ToUpper();
+
+            if (shapeType == "CU")
+            {
+                double length = Convert.ToDouble(Console.ReadLine());
+                double width = Convert.ToDouble(Console.ReadLine());
+                double height = Convert.ToDouble(Console.ReadLine());
+                shapes.Add(new Cuboid(length, width, height));
+            }
+            else if (shapeType == "S")
+            {
+                double radius = Convert.ToDouble(Console.ReadLine());
+                shapes.Add(new Sphere(radius));
+            }
+            else
+            {
+                Console.WriteLine("Invalid shape. Please try again.");
+                double total = calculator.CalculateTotalVolume(shapes);
+                Console.WriteLine($"Total volume of all shapes: {total:F2}");
+                return;
+            }
+
+            string cont = Console.ReadLine();
+            if (cont == null) break;
+            cont = cont.Trim().ToUpper();
+
+            if (cont == "Y")
+            {
+                continue;
+            }
+            else if (cont == "N")
+            {
+                break;
+            }
+            else
+            {
+                Console.WriteLine("Invalid shape. Please try again.");
+                double total = calculator.CalculateTotalVolume(shapes);
+                Console.WriteLine($"Total volume of all shapes: {total:F2}");
+                return;
+            }
+        }
+
+        double totalVolume = calculator.CalculateTotalVolume(shapes);
+        Console.WriteLine($"Total volume of all shapes: {totalVolume:F2}");
+    }
+}
